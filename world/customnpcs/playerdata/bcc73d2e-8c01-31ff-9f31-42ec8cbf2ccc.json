@@ -1,0 +1,82 @@
+{
+    "QuestData": {
+        "ActiveQuests": [
+            {
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 10,
+                            "Slot": "minecraft:zombie"
+                        }
+                    ]
+                },
+                "QuestCompleted": 1b,
+                "Quest": 1
+            }
+        ],
+        "CompletedQuests": [
+        ]
+    },
+    "jacket": 0,
+    "FactionData": [
+        {
+            "Faction": 0,
+            "Points": 2000
+        },
+        {
+            "Faction": 2,
+            "Points": 0
+        }
+    ],
+    "face": 0,
+    "ItemGiverChained": [
+    ],
+    "ScriptStoreddata": {
+    },
+    "hair": 0,
+    "ItemGiversList": [
+    ],
+    "TransportData": [
+    ],
+    "DialogData": [
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 15
+        }
+    ],
+    "PlayerCompanionId": 0,
+    "body": 0,
+    "isActive": 0b,
+    "bodyColor": 0,
+    "NpcsTimers": [
+    ],
+    "shoes": 0,
+    "leg": 0,
+    "PlayerName": "kucingmenangis",
+    "isMale": 0b,
+    "UUID": "bcc73d2e-8c01-31ff-9f31-42ec8cbf2ccc",
+    "eyesColor": 0,
+    "MailData": [
+    ],
+    "BankData": [
+    ],
+    "peculiarities": [I;],
+    "hairColor": 0
+}

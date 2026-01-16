@@ -1,0 +1,144 @@
+Trying to load common config
+Trying to load client config
+Config files are up to date, skipping data/asset generation
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:goon as entity.zombie_extreme.goon with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:zero_patient as entity.zombie_extreme.zero_patient with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_210
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:clogger as entity.undead_revamp2.clogger with weight 2, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_255
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:sucker as entity.undead_revamp2.sucker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thehunter as entity.undead_revamp2.thehunter with weight 5, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_60
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:sucker as entity.undead_revamp2.sucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thegliter as entity.undead_revamp2.thegliter with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_120
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:sucker as entity.undead_revamp2.sucker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:the_moonflower as entity.undead_revamp2.the_moonflower with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_90
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:goon as entity.zombie_extreme.goon with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:revived as entity.zombie_extreme.revived with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_165
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thegliter as entity.undead_revamp2.thegliter with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_150
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:goon as entity.zombie_extreme.goon with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_180
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_15
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:clogger as entity.undead_revamp2.clogger with weight 3, min day 0 and max day 0
+Loaded entity zombie_extreme:zero_patient as entity.zombie_extreme.zero_patient with weight 3, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 3, min day 0 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_405
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thehunter as entity.undead_revamp2.thehunter with weight 5, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_45
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+loaded horde table hordes:fallback
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+Loaded entity zombie_extreme:infected_police as entity.zombie_extreme.infected_police with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_30
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:sucker as entity.undead_revamp2.sucker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thegliter as entity.undead_revamp2.thegliter with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_105
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:sucker as entity.undead_revamp2.sucker with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:the_moonflower as entity.undead_revamp2.the_moonflower with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:runner as entity.zombie_extreme.runner with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_75
+Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thegliter as entity.undead_revamp2.thegliter with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_135
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:clogger as entity.undead_revamp2.clogger with weight 1, min day 0 and max day 0
+Loaded entity zombie_extreme:zero_patient as entity.zombie_extreme.zero_patient with weight 1, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 1, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_300
+Loaded entity zombie_extreme:infected_military as entity.zombie_extreme.infected_military with weight 25, min day 0 and max day 0
+Loaded entity undead_revamp2:bigsucker as entity.undead_revamp2.bigsucker with weight 5, min day 0 and max day 0
+Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+Loaded entity undead_revamp2:clogger as entity.undead_revamp2.clogger with weight 1, min day 0 and max day 0
+Loaded entity zombie_extreme:zero_patient as entity.zombie_extreme.zero_patient with weight 1, min day 0 and max day 0
+Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 1, min day 0 and max day 0
+Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 1, min day 0 and max day 0
+loaded horde table hordes:mobs_normal_345
+loaded horde script hordes:wave_0_normal_loot_script
+loaded horde script hordes:wave_0_normal_script
+loaded horde script hordes:wave_1_normal_loot_script
+loaded horde script hordes:wave_1_normal_script
+loaded horde script hordes:wave_2_normal_loot_script
+loaded horde script hordes:wave_2_normal_script
+loaded horde script hordes:wave_3_normal_loot_script
+loaded horde script hordes:wave_3_normal_script
+loaded horde script hordes:wave_4_normal_loot_script
+loaded horde script hordes:wave_4_normal_script
+loaded horde script hordes:wave_5_normal_loot_script
+loaded horde script hordes:wave_5_normal_script
+loaded horde script hordes:wave_6_normal_loot_script
+loaded horde script hordes:wave_6_normal_script
+loaded horde script hordes:wave_7_normal_loot_script
+loaded horde script hordes:wave_7_normal_script
+loaded horde script hordes:wave_8_normal_loot_script
+loaded horde script hordes:wave_8_normal_script
+loaded horde script hordes:wave_9_normal_loot_script
+loaded horde script hordes:wave_9_normal_script
+loaded horde script hordes:wave_10_normal_loot_script
+loaded horde script hordes:wave_10_normal_script
+loaded horde script hordes:wave_11_normal_loot_script
+loaded horde script hordes:wave_11_normal_script
+loaded horde script hordes:wave_12_normal_loot_script
+loaded horde script hordes:wave_12_normal_script
+loaded horde script hordes:wave_13_normal_loot_script
+loaded horde script hordes:wave_13_normal_script
+loaded horde script hordes:wave_14_normal_loot_script
+loaded horde script hordes:wave_14_normal_script
+loaded horde script hordes:wave_15_normal_loot_script
+loaded horde script hordes:wave_15_normal_script
+loaded horde script hordes:wave_16_normal_loot_script
+loaded horde script hordes:wave_16_normal_script
+loaded horde script hordes:wave_17_normal_loot_script
+loaded horde script hordes:wave_17_normal_script
+Loading conversion tables
+Loading conversion table hordes:infection_conversions
+Loading immunity item list
+Loading immunity item list hordes:immunity_items
+Loaded immunity item minecraft:enchanted_golden_apple with duration 120
+Loaded immunity item minecraft:golden_apple with duration 120
+Loading wearables protection list
+Loading wearables protection list hordes:immune_wearables

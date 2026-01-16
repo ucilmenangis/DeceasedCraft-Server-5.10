@@ -1,0 +1,8 @@
+[10:52:26][FINE/customnpcs][noppes.npcs.controllers.ScriptController:57] Fri Jan 16 10:52:26 ICT 2026
+[10:52:26][FINE/customnpcs][noppes.npcs.CustomNpcs:202] Script Engines Available:
+[10:52:26][FINE/customnpcs][noppes.npcs.CustomNpcs:202] lua: .lua
+[10:52:26][FINE/customnpcs][noppes.npcs.CustomNpcs:202] ECMAScript: .js
+[10:52:46][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[10:52:46][FINE/customnpcs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[10:52:49][FINE/customnpcs][noppes.npcs.CustomNpcs:251] Loading Dialogs
+[10:52:49][FINE/customnpcs][noppes.npcs.CustomNpcs:251] Done loading Dialogs

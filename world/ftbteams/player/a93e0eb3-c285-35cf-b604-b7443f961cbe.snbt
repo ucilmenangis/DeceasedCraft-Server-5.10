@@ -1,0 +1,15 @@
+{
+	id: "a93e0eb3-c285-35cf-b604-b7443f961cbe"
+	type: "player"
+	player_name: "WOKSAWIT"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "WOKSAWIT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

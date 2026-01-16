@@ -1,0 +1,25 @@
+{
+	id: "9d950855-5be5-4e66-ad3e-3f47be571d3a"
+	type: "party"
+	owner: "bcc73d2e-8c01-31ff-9f31-42ec8cbf2ccc"
+	ranks: {
+		bcc73d2e-8c01-31ff-9f31-42ec8cbf2ccc: "owner"
+		44300771-7da7-316a-ab99-1d82c094209c: "member"
+		a93e0eb3-c285-35cf-b604-b7443f961cbe: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "kucingmenangis's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768483652654L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"kucingmenangis\"}]}" }
+		{ from: "bcc73d2e-8c01-31ff-9f31-42ec8cbf2ccc", date: 1768483652662L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"NecroLancer24\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768483655741L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"NecroLancer24\"}]}" }
+		{ from: "bcc73d2e-8c01-31ff-9f31-42ec8cbf2ccc", date: 1768487642608L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"WOKSAWIT\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768487660814L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"WOKSAWIT\"}]}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "bcc73d2e-8c01-31ff-9f31-42ec8cbf2ccc"
+	type: "player"
+	player_name: "kucingmenangis"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "kucingmenangis"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

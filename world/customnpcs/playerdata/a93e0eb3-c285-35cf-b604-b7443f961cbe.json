@@ -1,0 +1,103 @@
+{
+    "QuestData": {
+        "ActiveQuests": [
+        ],
+        "CompletedQuests": [
+            {
+                "Quest": 4,
+                "Date": 270389L
+            },
+            {
+                "Quest": 5,
+                "Date": 271791L
+            },
+            {
+                "Quest": 6,
+                "Date": 272562L
+            }
+        ]
+    },
+    "jacket": 0,
+    "FactionData": [
+        {
+            "Faction": 0,
+            "Points": 2000
+        },
+        {
+            "Faction": 2,
+            "Points": 0
+        }
+    ],
+    "face": 0,
+    "ItemGiverChained": [
+    ],
+    "ScriptStoreddata": {
+    },
+    "hair": 0,
+    "ItemGiversList": [
+    ],
+    "TransportData": [
+    ],
+    "DialogData": [
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 26
+        },
+        {
+            "Dialog": 27
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 29
+        },
+        {
+            "Dialog": 31
+        },
+        {
+            "Dialog": 63
+        }
+    ],
+    "PlayerCompanionId": 0,
+    "body": 0,
+    "isActive": 0b,
+    "bodyColor": 0,
+    "NpcsTimers": [
+    ],
+    "shoes": 0,
+    "leg": 0,
+    "PlayerName": "WOKSAWIT",
+    "isMale": 0b,
+    "UUID": "a93e0eb3-c285-35cf-b604-b7443f961cbe",
+    "eyesColor": 0,
+    "MailData": [
+    ],
+    "BankData": [
+    ],
+    "peculiarities": [I;],
+    "hairColor": 0
+}

@@ -1,0 +1,35 @@
+# Session lock files (locked by running server)
+**/session.lock
+
+# World data (optional - uncomment if you don't want to track world saves)
+# world/
+
+# Logs
+logs/
+*.log
+
+# Crash reports
+crash-reports/
+
+# Cache and temp files
+*.tmp
+*.bak
+
+# Libraries (can be re-downloaded)
+libraries/
+
+# Local/user-specific files
+local/
+*.local.properties
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Backups
+backups/

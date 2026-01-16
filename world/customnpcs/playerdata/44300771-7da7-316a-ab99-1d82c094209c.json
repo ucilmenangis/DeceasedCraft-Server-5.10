@@ -1,0 +1,52 @@
+{
+    "QuestData": {
+        "ActiveQuests": [
+        ],
+        "CompletedQuests": [
+        ]
+    },
+    "jacket": 0,
+    "FactionData": [
+        {
+            "Faction": 0,
+            "Points": 2000
+        },
+        {
+            "Faction": 2,
+            "Points": 0
+        }
+    ],
+    "face": 0,
+    "ItemGiverChained": [
+    ],
+    "ScriptStoreddata": {
+    },
+    "hair": 0,
+    "ItemGiversList": [
+    ],
+    "TransportData": [
+    ],
+    "DialogData": [
+        {
+            "Dialog": 3
+        }
+    ],
+    "PlayerCompanionId": 0,
+    "body": 0,
+    "isActive": 0b,
+    "bodyColor": 0,
+    "NpcsTimers": [
+    ],
+    "shoes": 0,
+    "leg": 0,
+    "PlayerName": "NecroLancer24",
+    "isMale": 0b,
+    "UUID": "44300771-7da7-316a-ab99-1d82c094209c",
+    "eyesColor": 0,
+    "MailData": [
+    ],
+    "BankData": [
+    ],
+    "peculiarities": [I;],
+    "hairColor": 0
+}
