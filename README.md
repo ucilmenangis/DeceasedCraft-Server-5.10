@@ -3,7 +3,9 @@
 
 <div align="center">
 
-![DeceasedCraft Banner](https://i.imgur.com/YOUR_BANNER_HERE.png)
+![DeceasedCraft Banner](https://i.imgur.com/pR9Vk6J.png)
+
+![City Banner](https://media.forgecdn.net/attachments/1437/66/group-12-0-75x-jpg.jpg)
 
 **Version: Beta 5.10.15**
 
