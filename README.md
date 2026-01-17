@@ -127,8 +127,6 @@ chmod +x run.sh
 
 > **💾 BACKUPS** - Always backup your world before updating!
 
-> **🔧 SUPPORT** - Report issues and suggest features through our community channels.
-
 ---
 
 ## 🎯 Survival Tips
@@ -155,3 +153,4 @@ chmod +x run.sh
 *Good luck, survivor. You'll need it.*
 
 </div>
+
