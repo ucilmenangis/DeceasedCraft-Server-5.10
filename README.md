@@ -5,8 +5,6 @@
 
 ![DeceasedCraft Banner](https://i.imgur.com/pR9Vk6J.png)
 
-![City Banner](https://media.forgecdn.net/attachments/1437/66/group-12-0-75x-jpg.jpg)
-
 **Version: Beta 5.10.15**
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62B47A?style=for-the-badge&logo=curseforge)](https://minecraft.net)
