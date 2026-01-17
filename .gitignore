@@ -1,8 +1,7 @@
 # Session lock files (locked by running server)
-**/session.lock
-
+# session.lock
 # World data (optional - uncomment if you don't want to track world saves)
-# world/
+world/
 
 # Logs
 logs/
