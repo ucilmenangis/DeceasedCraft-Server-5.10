@@ -40,7 +40,10 @@
       "shrubland": "2026-01-15 20:21:12 +0700",
       "overgrown_greens": "2026-01-15 21:56:30 +0700",
       "redwood_forest": "2026-01-15 23:02:44 +0700",
-      "grassland": "2026-01-15 20:29:08 +0700"
+      "rocky_rainforest": "2026-01-16 21:21:51 +0700",
+      "volcanic_plains": "2026-01-16 21:19:11 +0700",
+      "grassland": "2026-01-15 20:29:08 +0700",
+      "rainforest": "2026-01-16 21:19:14 +0700"
     },
     "done": false
   },
@@ -2273,7 +2276,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2026-01-16 19:58:11 +0700",
       "minecraft:husk": "2026-01-15 20:28:20 +0700",
+      "minecraft:cave_spider": "2026-01-16 19:58:24 +0700",
       "minecraft:zombie": "2026-01-15 20:26:27 +0700",
       "minecraft:drowned": "2026-01-15 22:30:46 +0700"
     },
@@ -2311,8 +2316,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2026-01-16 20:52:34 +0700",
+      "minecraft:bamboo_jungle": "2026-01-16 21:20:59 +0700",
       "minecraft:dark_forest": "2026-01-15 21:33:57 +0700",
       "minecraft:river": "2026-01-15 20:29:06 +0700",
+      "minecraft:dripstone_caves": "2026-01-16 20:52:57 +0700",
+      "minecraft:jungle": "2026-01-16 21:19:06 +0700",
+      "minecraft:old_growth_birch_forest": "2026-01-16 20:52:40 +0700",
       "minecraft:meadow": "2026-01-15 23:02:51 +0700"
     },
     "done": false
@@ -5175,10 +5185,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2026-01-16 20:40:21 +0700",
       "baked_potato": "2026-01-15 22:29:45 +0700",
       "golden_apple": "2026-01-15 22:43:37 +0700",
       "cookie": "2026-01-15 20:42:58 +0700",
-      "cooked_chicken": "2026-01-15 22:15:49 +0700"
+      "cooked_chicken": "2026-01-15 22:15:49 +0700",
+      "carrot": "2026-01-16 20:40:13 +0700"
     },
     "done": false
   },
@@ -7606,15 +7618,2691 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-01-15 23:11:38 +0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2026-01-15 23:16:23 +0700"
     },
     "done": true
   },
-  "lootr:50loot": {
+  "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
-      "loot_stat": "2026-01-15 23:11:38 +0700"
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/blue_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2026-01-16 19:52:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2026-01-16 19:00:31 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/cabinet": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_up": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_warning": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/classic_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_electrical": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_paving_stones": {
+    "criteria": {
+      "has_gneiss_cobblestones": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_1": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_2": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_5": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_6": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_3": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_4": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_stairs_7": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-01-16 20:43:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_cross": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/black_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/rolling_pin": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/basalt_ornament_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "fancytrinkets:recipes/misc/experience_crafter": {
+    "criteria": {
+      "redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_no_entry": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-01-16 20:49:32 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/yellow_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_left": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-01-16 19:52:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/warning_white_steel_door": {
+    "criteria": {
+      "has_white_steel_door": "2026-01-16 19:33:59 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/wall_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-01-16 19:21:02 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_right": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_premiumclothstore": {
+    "criteria": {
+      "building_premiumclothstore": "2026-01-16 21:19:16 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/sport_car_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_bars_overlay": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire_diamond": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/magenta_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_button": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_wall": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/suburb_residential/multi_polyclinic": {
+    "criteria": {
+      "multi_polyclinic": "2026-01-16 19:29:38 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_creeper": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2026-01-16 20:22:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_pressure_plate_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_hotelc": {
+    "criteria": {
+      "building_hotelc": "2026-01-16 21:22:02 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_hoteld": {
+    "criteria": {
+      "building_hoteld": "2026-01-16 21:21:53 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_left": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wired_fuze": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-01-16 19:52:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/white_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/green_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_blue_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_pressure_plate": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/green_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/grit_sand": {
+    "criteria": {
+      "has_sand": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/pink_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2026-01-16 20:28:26 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/motorcycle_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/brick_counter": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/cyan_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_2": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_1": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_7": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_4": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_3": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_6": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_slab_5": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/car_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_wooden_crate": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_forge": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_right": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/white_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/purple_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/brown_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_large_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/tonic": {
+    "criteria": {
+      "has_healing_herbs": "2026-01-16 19:34:10 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/suburb_residential/multi_communitycenter": {
+    "criteria": {
+      "multi_communitycenter": "2026-01-16 19:18:14 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-01-16 20:36:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_left": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_bricks": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_sheet_metal": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/lime_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2026-01-16 19:54:55 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_skull": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fluid": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_ice": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_flow": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_fancy_table": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_rooftiles_from_diorite": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/sturdy_white_steel_door": {
+    "criteria": {
+      "has_white_steel_door": "2026-01-16 19:33:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_fancy_door": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_radioactive": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/chocolate_box": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/lime_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_diorite_from_smelting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/truck_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/purple_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/cyan_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_right": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/thermal_coat_1": {
+    "criteria": {
+      "has_heating_coat_1": "2026-01-16 19:30:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/street_sign": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/red_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/drawer": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/diorite_rooftiles_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/tray": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/orange_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/orange_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/pink_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/diorite_ornament_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/magenta_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_iron_bars": "2026-01-16 21:06:18 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/suv_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/diorite_button_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_stairs": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/brown_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/black_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
+    "criteria": {
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support_wedge": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
