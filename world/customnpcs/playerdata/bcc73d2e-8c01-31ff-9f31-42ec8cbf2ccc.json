@@ -1,20 +1,20 @@
 {
     "QuestData": {
         "ActiveQuests": [
-            {
-                "ExtraData": {
-                    "Killed": [
-                        {
-                            "Value": 10,
-                            "Slot": "minecraft:zombie"
-                        }
-                    ]
-                },
-                "QuestCompleted": 1b,
-                "Quest": 1
-            }
         ],
         "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 706634L
+            },
+            {
+                "Quest": 2,
+                "Date": 810103L
+            },
+            {
+                "Quest": 3,
+                "Date": 810290L
+            }
         ]
     },
     "jacket": 0,
@@ -40,9 +40,6 @@
     ],
     "DialogData": [
         {
-            "Dialog": 16
-        },
-        {
             "Dialog": 3
         },
         {
@@ -58,7 +55,31 @@
             "Dialog": 8
         },
         {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
             "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
         }
     ],
     "PlayerCompanionId": 0,

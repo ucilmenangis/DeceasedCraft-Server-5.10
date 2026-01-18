@@ -1,120 +1,116 @@
-[18:46:14] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:46:14] [INIT] Loaded plugins:
-[18:46:14] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:46:14] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[18:46:14] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[18:46:14] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[18:46:14] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[18:46:14] [INIT] - net.liopyu.entityjs.EntityJSPlugin
-[18:46:14] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[18:46:14] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[18:46:14] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[18:46:14] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[18:46:14] [INFO] functions/flyer_usage.js#2: Loaded flyer_usage.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/flyer_usage.js in 0.002 s
-[18:46:14] [INFO] functions/gasmask_logics.js#2: Loaded gasmask_logics.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/gasmask_logics.js in 0.002 s
-[18:46:14] [INFO] functions/horde_beacon.js#2: Loaded horde_beacon.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/horde_beacon.js in 0.001 s
-[18:46:14] [INFO] functions/horde_calendar.js#2: Loaded horde_calendar.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/horde_calendar.js in 0.0 s
-[18:46:14] [INFO] functions/mining_mobs.js#2: Loaded mining mobs.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/mining_mobs.js in 0.0 s
-[18:46:14] [INFO] functions/skill_guide_books.js#2: Loaded skill_guide_book.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/skill_guide_books.js in 0.002 s
-[18:46:14] [INFO] Loaded script server_scripts:functions/spawn_car_commands.js in 0.003 s
-[18:46:14] [INFO] Loaded script server_scripts:functions/spawn_commands.js in 0.002 s
-[18:46:14] [INFO] Loaded script server_scripts:functions/spawn_gun_commands.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:functions/spawn_npc_commands.js in 0.005 s
-[18:46:14] [INFO] functions/survivor_radar.js#2: Loaded survivor radar.js
-[18:46:14] [INFO] Loaded script server_scripts:functions/survivor_radar.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/apocalypsenow/food.js in 0.002 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/apocalypsenow/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/ammoboxes.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/arc_furnace_processing.js in 0.002 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/armor.js in 0.005 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/armor_parts.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/bullets.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/cures.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/extreme_reactor.js in 0.003 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/gun_parts.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/item.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/material.js in 0.002 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/ore_processing.js in 0.002 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/repair.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_axes.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_baton.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_bats.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_fists.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_hammer.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_hoe.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_katana.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_knives.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_mace.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_machetes.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_misc.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_shield.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_shovel.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_sword.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/immersive_aircraft/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/legendarysurvivaloverhaul/medical.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/pipez/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/refinedstorage/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/refueled/bodies.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/refueled/cars.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/refueled/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/securitycraft/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/simpleplanes/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/sophisticated_backpack/items.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:recipes/wormhole/items.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:removal/items.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:removal/mods.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/armor.js in 0.004 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/bullets.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/bullet_casings.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/bullet_molds.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/car_parts.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/cities.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/diet.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/drivable_blocks.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/duplicate_items.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/fluids.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/food_largexp.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/food_lowxp.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/food_mediumxp.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/lostcities.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/melee_weapons.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/misc.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/mre.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/non_movable.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/repairable_armors.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/repairable_weapons.js in 0.001 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/rubber_cables.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/scrappable.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/securitycraft.js in 0.0 s
-[18:46:14] [INFO] Loaded script server_scripts:tags/tag_fixes.js in 0.0 s
-[18:46:14] [INFO] Loaded 77/77 KubeJS server scripts in 0.084 s with 0 errors and 0 warnings
-[18:46:14] [INFO] Scripts loaded
-[18:46:14] [INFO] Initializing recipe event...
-[18:46:19] [INFO] [minecraft:fluid] Found 61 tags, added 4 objects, removed 0 objects
-[18:46:19] [INFO] [minecraft:worldgen/biome] Found 311 tags, added 42 objects, removed 0 objects
-[18:46:19] [INFO] [minecraft:block] Found 763 tags, added 548 objects, removed 0 objects
-[18:46:20] [INFO] [minecraft:item] Found 1430 tags, added 1124 objects, removed 8 objects
-[18:46:21] [INFO] Processing recipes...
-[18:46:21] [WARN] Failed to parse recipe 'rebel:ammo/37aphe[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: #forge:storage_blocks/lead
-[18:46:21] [WARN] Failed to parse recipe 'create_sa:andesite_exoskeleton_recipe[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[18:46:21] [WARN] Failed to parse recipe 'tacz:ammo/40mm_10[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: #forge:gunpowder
-[18:46:21] [WARN] Failed to parse recipe 'apocalypsenow:rockeyhelmetrecipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[18:46:21] [WARN] Failed to parse recipe 'tacz:ammo/40mm[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: #forge:gunpowder
-[18:46:21] [INFO] Found 18805 recipes in 431.5 ms
-[18:46:27] [INFO] Posted recipe events in 5.578 s
-[18:46:27] [INFO] Added 1049 recipes, removed 1561 recipes, modified 71 recipes, with 0 failed recipes in 403.8 ms
-[18:46:34] [INFO] Server resource reload complete!
-[19:16:58] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[19:18:04] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[20:19:48] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[20:20:46] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[21:01:50] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[21:03:24] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[21:23:28] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
-[21:25:11] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
+[14:01:36] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:01:36] [INIT] Loaded plugins:
+[14:01:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:01:36] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[14:01:36] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[14:01:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[14:01:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[14:01:36] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[14:01:36] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:01:36] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[14:01:37] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[14:01:37] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[14:01:37] [INFO] functions/flyer_usage.js#2: Loaded flyer_usage.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/flyer_usage.js in 0.002 s
+[14:01:37] [INFO] functions/gasmask_logics.js#2: Loaded gasmask_logics.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/gasmask_logics.js in 0.002 s
+[14:01:37] [INFO] functions/horde_beacon.js#2: Loaded horde_beacon.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/horde_beacon.js in 0.0 s
+[14:01:37] [INFO] functions/horde_calendar.js#2: Loaded horde_calendar.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/horde_calendar.js in 0.0 s
+[14:01:37] [INFO] functions/mining_mobs.js#2: Loaded mining mobs.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/mining_mobs.js in 0.001 s
+[14:01:37] [INFO] functions/skill_guide_books.js#2: Loaded skill_guide_book.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/skill_guide_books.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:functions/spawn_car_commands.js in 0.002 s
+[14:01:37] [INFO] Loaded script server_scripts:functions/spawn_commands.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:functions/spawn_gun_commands.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:functions/spawn_npc_commands.js in 0.004 s
+[14:01:37] [INFO] functions/survivor_radar.js#2: Loaded survivor radar.js
+[14:01:37] [INFO] Loaded script server_scripts:functions/survivor_radar.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/apocalypsenow/food.js in 0.003 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/apocalypsenow/items.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/ammoboxes.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/arc_furnace_processing.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/armor.js in 0.006 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/armor_parts.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/bullets.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/cures.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/extreme_reactor.js in 0.003 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/gun_parts.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/item.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/material.js in 0.004 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/ore_processing.js in 0.004 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/repair.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_axes.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_baton.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_bats.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_fists.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_hammer.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_hoe.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_katana.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_knives.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_mace.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_machetes.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_misc.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_shield.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_shovel.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_sword.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/immersive_aircraft/items.js in 0.002 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/legendarysurvivaloverhaul/medical.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/pipez/items.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/refinedstorage/items.js in 0.002 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/refueled/bodies.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/refueled/cars.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/refueled/items.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/securitycraft/items.js in 0.002 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/simpleplanes/items.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/sophisticated_backpack/items.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:recipes/wormhole/items.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:removal/items.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:removal/mods.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/armor.js in 0.003 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/bullets.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/bullet_casings.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/bullet_molds.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/car_parts.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/cities.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/diet.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/drivable_blocks.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/duplicate_items.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/fluids.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/food_largexp.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/food_lowxp.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/food_mediumxp.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/lostcities.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/melee_weapons.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/misc.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/mre.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/non_movable.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/repairable_armors.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/repairable_weapons.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/rubber_cables.js in 0.001 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/scrappable.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/securitycraft.js in 0.0 s
+[14:01:37] [INFO] Loaded script server_scripts:tags/tag_fixes.js in 0.0 s
+[14:01:37] [INFO] Loaded 77/77 KubeJS server scripts in 0.093 s with 0 errors and 0 warnings
+[14:01:37] [INFO] Scripts loaded
+[14:01:37] [INFO] Initializing recipe event...
+[14:01:41] [INFO] [minecraft:fluid] Found 61 tags, added 4 objects, removed 0 objects
+[14:01:41] [INFO] [minecraft:worldgen/biome] Found 311 tags, added 42 objects, removed 0 objects
+[14:01:42] [INFO] [minecraft:block] Found 763 tags, added 548 objects, removed 0 objects
+[14:01:42] [INFO] [minecraft:item] Found 1430 tags, added 1124 objects, removed 8 objects
+[14:01:43] [INFO] Processing recipes...
+[14:01:43] [WARN] Failed to parse recipe 'rebel:ammo/37aphe[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: #forge:storage_blocks/lead
+[14:01:43] [WARN] Failed to parse recipe 'create_sa:andesite_exoskeleton_recipe[create:mechanical_crafting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[14:01:43] [WARN] Failed to parse recipe 'tacz:ammo/40mm_10[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: #forge:gunpowder
+[14:01:43] [WARN] Failed to parse recipe 'apocalypsenow:rockeyhelmetrecipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[14:01:43] [WARN] Failed to parse recipe 'tacz:ammo/40mm[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Non [a-z0-9_.-] character in namespace of location: #forge:gunpowder
+[14:01:43] [INFO] Found 18805 recipes in 334.7 ms
+[14:01:48] [INFO] Posted recipe events in 4.968 s
+[14:01:48] [INFO] Added 1049 recipes, removed 1561 recipes, modified 71 recipes, with 0 failed recipes in 327.3 ms
+[14:01:54] [INFO] Server resource reload complete!
+[18:17:52] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
+[19:52:54] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
+[20:36:24] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"
+[21:01:23] [ERROR] ! functions/gasmask_logics.js#11: Error in 'EntityEvents.death': TypeError: Cannot set property "resetFlag" of undefined to "true"

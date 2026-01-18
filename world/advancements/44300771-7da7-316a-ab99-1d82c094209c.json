@@ -5187,6 +5187,7 @@
     "criteria": {
       "sweet_berries": "2026-01-16 20:40:21 +0700",
       "baked_potato": "2026-01-15 22:29:45 +0700",
+      "apple": "2026-01-17 20:48:53 +0700",
       "golden_apple": "2026-01-15 22:43:37 +0700",
       "cookie": "2026-01-15 20:42:58 +0700",
       "cooked_chicken": "2026-01-15 22:15:49 +0700",
@@ -6222,6 +6223,7 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
+      "bakery:apple_pie": "2026-01-17 21:13:23 +0700",
       "bakery:vegetable_sandwich": "2026-01-15 21:28:56 +0700"
     },
     "done": false
@@ -7630,27 +7632,297 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2026-01-16 19:00:31 +0700"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
       "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+  "createdeco:recipes/decorations/decal_up": {
     "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+      "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
-  "cfm:recipes/decorations/orange_cooler": {
+  "createdeco:recipes/decorations/red_shipping_container": {
     "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
+      "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+  "createdeco:recipes/decorations/decal_warning": {
     "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_electrical": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_cross": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_no_entry": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_left": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_right": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_bars_overlay": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire_diamond": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_creeper": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_left": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_forge": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_right": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_left": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_sheet_metal": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_skull": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fluid": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_ice": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_flow": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_radioactive": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_right": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support_wedge": {
+    "criteria": {
+      "has_item": "2026-01-16 19:03:29 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/suburb_residential/multi_communitycenter": {
+    "criteria": {
+      "multi_communitycenter": "2026-01-16 19:18:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-01-16 19:21:02 +0700"
     },
     "done": true
   },
@@ -7666,63 +7938,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2026-01-16 19:52:19 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dark_oak_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2026-01-16 19:00:31 +0700"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/reactor/basic/passivetap_fe": {
-    "criteria": {
-      "has_item2": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_up": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-01-16 19:53:25 +0700"
     },
     "done": true
   },
@@ -7732,105 +7950,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/red_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_warning": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/gray_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/classic_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_electrical": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_paving_stones": {
-    "criteria": {
-      "has_gneiss_cobblestones": "2026-01-16 19:52:02 +0700"
     },
     "done": true
   },
@@ -7840,45 +7962,15 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/reactor/reinforced/passivetap_fe": {
-    "criteria": {
-      "has_item2": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "buildersdelight:recipes/misc/oak_stairs_1": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
     },
     "done": true
   },
@@ -7912,39 +8004,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "buildersdelight:recipes/misc/oak_stairs_7": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_down": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
     },
     "done": true
   },
@@ -7954,39 +8016,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
-    "criteria": {
-      "has_item": "2026-01-16 20:43:43 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/white_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_cross": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
@@ -7996,63 +8028,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/lime_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/warped_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "bakery:recipes/rolling_pin": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/basalt_ornament_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "fancytrinkets:recipes/misc/experience_crafter": {
-    "criteria": {
-      "redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -8062,51 +8040,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_no_entry": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_iron_lamp": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2026-01-16 20:49:32 +0700"
     },
     "done": true
   },
@@ -8116,69 +8052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_left": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2026-01-16 19:52:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/purple_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/green_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_industrial_group/warning_white_steel_door": {
-    "criteria": {
-      "has_white_steel_door": "2026-01-16 19:33:59 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/white_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -8188,207 +8064,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2026-01-16 19:21:02 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/magenta_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_right": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/plate": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_timer": {
-    "criteria": {
-      "has_item": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:building/highrise_hotel/building_premiumclothstore": {
-    "criteria": {
-      "building_premiumclothstore": "2026-01-16 21:19:16 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_iron_lamp": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall_from_gneiss_cobblestone_stonecutting": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/sport_car_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_bars_overlay": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_fire_diamond": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/purple_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
@@ -8410,297 +8094,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/magenta_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_button": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/magenta_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_wall": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_warped_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/purple_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:large_building/suburb_residential/multi_polyclinic": {
-    "criteria": {
-      "multi_polyclinic": "2026-01-16 19:29:38 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/cyan_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_creeper": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
-    "criteria": {
-      "has_pink_daffodil": "2026-01-16 20:22:41 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-01-16 19:53:25 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_fire": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_pressure_plate_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:building/highrise_hotel/building_hotelc": {
-    "criteria": {
-      "building_hotelc": "2026-01-16 21:22:02 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:building/highrise_hotel/building_hoteld": {
-    "criteria": {
-      "building_hoteld": "2026-01-16 21:21:53 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/orange_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/decal_top_left": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/wired_fuze": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_blue_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2026-01-16 19:53:25 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2026-01-16 19:52:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_frame": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
     },
     "done": true
   },
@@ -8722,27 +8124,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/light_blue_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -8752,69 +8136,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_pressure_plate": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/green_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/grit_sand": {
-    "criteria": {
-      "has_sand": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
     },
     "done": true
   },
@@ -8824,33 +8148,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/pink_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/white_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -8860,75 +8160,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_modifier": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2026-01-16 20:28:26 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "trashcans:recipes/misc/energy_trash_can": {
-    "criteria": {
-      "recipe_condition": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-01-16 19:53:25 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
     },
     "done": true
   },
@@ -8938,81 +8172,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/motorcycle_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
   "bakery:recipes/brick_counter": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/cage_trap": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_furniture_group/cyan_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -9064,57 +8232,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/car_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/gray_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -9124,75 +8244,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_catwalk_forge": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/blue_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_down_right": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/white_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
-    "criteria": {
-      "has_redstone_dust": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
     },
     "done": true
   },
@@ -9214,12 +8268,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2026-01-16 19:21:20 +0700"
@@ -9232,111 +8280,9 @@
     },
     "done": true
   },
-  "legendarysurvivaloverhaul:recipes/misc/tonic": {
-    "criteria": {
-      "has_healing_herbs": "2026-01-16 19:34:10 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:large_building/suburb_residential/multi_communitycenter": {
-    "criteria": {
-      "multi_communitycenter": "2026-01-16 19:18:14 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull": {
-    "criteria": {
-      "has_item": "2026-01-16 19:53:25 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_iron_lamp": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs_from_gneiss_cobblestone_stonecutting": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2026-01-16 19:53:25 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate_from_gneiss_cobblestone_stonecutting": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_stack_upgrade_tier_1": "2026-01-16 20:36:04 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2026-01-16 19:53:25 +0700"
     },
     "done": true
   },
@@ -9346,69 +8292,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_down_left": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_bricks": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_slab": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_sheet_metal": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
     },
     "done": true
   },
@@ -9418,75 +8304,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
-    "criteria": {
-      "has_stack_upgrade_starter_tier": "2026-01-16 19:54:55 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/portable_radar": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_skull": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -9496,99 +8316,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_fluid": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_ice": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/pink_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_flow": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/oak_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/taser": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/green_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2026-01-16 19:53:25 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/blue_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
     },
     "done": true
   },
@@ -9610,57 +8340,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_rooftiles_from_diorite": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_industrial_group/sturdy_white_steel_door": {
-    "criteria": {
-      "has_white_steel_door": "2026-01-16 19:33:59 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dropper": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_building_group/oak_fancy_door": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_radioactive": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -9670,27 +8352,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/warped_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_furniture_group/lime_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_diorite_from_smelting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/truck_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
     },
     "done": true
   },
@@ -9700,51 +8364,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/gray_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/cyan_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_key_changer": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
     },
     "done": true
   },
@@ -9754,27 +8376,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
     },
     "done": true
   },
@@ -9784,69 +8388,15 @@
     },
     "done": true
   },
-  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
-    "criteria": {
-      "has_item": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_iron_lamp": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_furniture_group/gray_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_top_right": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/misc/thermal_coat_1": {
-    "criteria": {
-      "has_heating_coat_1": "2026-01-16 19:30:55 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
     },
     "done": true
   },
@@ -9862,33 +8412,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/birch_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
     },
     "done": true
   },
@@ -9898,63 +8424,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/pink_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/diorite_rooftiles_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/basic/passivetap_fe": {
-    "criteria": {
-      "has_item2": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/reinforced/passivetap_fe": {
-    "criteria": {
-      "has_item2": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brown_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -9976,111 +8448,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/pink_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_hull": {
-    "criteria": {
-      "has_item": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
   "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_gray_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall": {
-    "criteria": {
-      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-01-16 20:47:32 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/black_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "trashcans:recipes/misc/item_trash_can": {
-    "criteria": {
-      "recipe_condition": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_cooler": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/claymore": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
     },
     "done": true
   },
@@ -10102,45 +8472,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
-    "criteria": {
-      "has_item": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/orange_shipping_container": {
-    "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/diorite_ornament_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/panic_button": {
-    "criteria": {
-      "has_redstone": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
     },
     "done": true
   },
@@ -10168,99 +8502,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2026-01-16 19:57:00 +0700"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/proximity_fuze": {
-    "criteria": {
-      "has_iron_bars": "2026-01-16 21:06:18 +0700"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2026-01-16 19:21:20 +0700"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2026-01-16 19:21:20 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/suv_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-16 20:34:56 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/diorite_button_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2026-01-16 19:49:58 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_mail_box": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2026-01-16 19:21:23 +0700"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_stairs": {
-    "criteria": {
-      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
     },
     "done": true
   },
@@ -10276,9 +8526,471 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_mesh_fence": {
+  "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
     "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
+      "has_planks": "2026-01-16 19:21:20 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2026-01-16 19:21:23 +0700"
     },
     "done": true
   },
@@ -10288,9 +9000,1053 @@
     },
     "done": true
   },
-  "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
+  "deceasedcraft:large_building/suburb_residential/multi_polyclinic": {
     "criteria": {
-      "has_planks": "2026-01-16 19:21:20 +0700"
+      "multi_polyclinic": "2026-01-16 19:29:38 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/thermal_coat_1": {
+    "criteria": {
+      "has_heating_coat_1": "2026-01-16 19:30:55 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/warning_white_steel_door": {
+    "criteria": {
+      "has_white_steel_door": "2026-01-16 19:33:59 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/sturdy_white_steel_door": {
+    "criteria": {
+      "has_white_steel_door": "2026-01-16 19:33:59 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/tonic": {
+    "criteria": {
+      "has_healing_herbs": "2026-01-16 19:34:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_button": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_rooftiles_from_diorite": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_diorite_from_smelting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/diorite_rooftiles_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/diorite_ornament_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/diorite_button_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-01-16 19:49:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_paving_stones": {
+    "criteria": {
+      "has_gneiss_cobblestones": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_bricks": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2026-01-16 19:52:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2026-01-16 19:52:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-01-16 19:52:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2026-01-16 19:52:19 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-16 19:53:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-01-16 19:53:25 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2026-01-16 19:54:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/grit_sand": {
+    "criteria": {
+      "has_sand": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2026-01-16 19:57:00 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/reactor/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "fancytrinkets:recipes/misc/experience_crafter": {
+    "criteria": {
+      "redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wired_fuze": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2026-01-16 19:59:19 +0700"
     },
     "done": true
   },
@@ -10300,9 +10056,1791 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_support_wedge": {
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
-      "has_item": "2026-01-16 19:03:29 +0700"
+      "has_pink_daffodil": "2026-01-16 20:22:41 +0700"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2026-01-16 20:28:26 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/classic_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/sport_car_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/motorcycle_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/car_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/truck_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/suv_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-16 20:34:56 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-01-16 20:36:04 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2026-01-16 20:43:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-01-16 20:47:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-01-16 20:49:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/basalt_ornament_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_wall": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_pressure_plate_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_pressure_plate": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_basalt": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_basalt_stairs": {
+    "criteria": {
+      "has_smooth_basalt": "2026-01-16 20:57:46 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_iron_bars": "2026-01-16 21:06:18 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_premiumclothstore": {
+    "criteria": {
+      "building_premiumclothstore": "2026-01-16 21:19:16 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_hoteld": {
+    "criteria": {
+      "building_hoteld": "2026-01-16 21:21:53 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_hotelc": {
+    "criteria": {
+      "building_hotelc": "2026-01-16 21:22:02 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2026-01-17 20:45:21 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2026-01-17 20:45:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-01-17 20:45:21 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2026-01-17 20:45:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-01-17 20:45:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-01-17 20:45:21 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/misc/warm_string_from_sewing_string_sun_fern_leaf": {
+    "criteria": {
+      "has_coat": "2026-01-17 20:46:57 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2026-01-17 20:48:47 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2026-01-17 20:48:47 +0700"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2026-01-17 20:48:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/diorite_paving": {
+    "criteria": {
+      "has_polished_diorite": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/smelting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_diorite": {
+    "criteria": {
+      "has_polished_diorite": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/misc/blasting/graphite_from_coalblock": {
+    "criteria": {
+      "has_item": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-01-17 20:55:10 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/impact_fuze": {
+    "criteria": {
+      "has_impact_fuze_head": "2026-01-17 20:56:08 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/rusty_rungs": {
+    "criteria": {
+      "has_steel_rungs": "2026-01-17 20:56:17 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/gray_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/yellow_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_blue_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/black_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/lime_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/red_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/pink_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/brown_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/blue_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/purple_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/blue_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/pink_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/orange_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/cyan_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/orange_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/magenta_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/red_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/lime_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/white_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/green_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/magenta_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/yellow_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/black_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/light_gray_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/cyan_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/gray_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/brown_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/purple_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/chair/white_chair_from_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/green_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair": {
+    "criteria": {
+      "has_floor_chair": "2026-01-17 20:56:19 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_dropper": {
+    "criteria": {
+      "has_trapdoor": "2026-01-17 20:56:31 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2026-01-17 20:56:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2026-01-17 20:56:56 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_6": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_5": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_8": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_7": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_2": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_1": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_4": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_3": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-17 20:56:58 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cast_iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_cast_iron_nugget": "2026-01-17 20:57:08 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2026-01-17 21:07:45 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2026-01-17 21:08:20 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2026-01-17 21:08:20 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_shovel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/steel_beam": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_helmet": {
+    "criteria": {
+      "has_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_fence_gate": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_chestplate": {
+    "criteria": {
+      "has_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/air_duct": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_pickaxe": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/steel_wall_ladder": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_leggings": {
+    "criteria": {
+      "has_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_screw_lock": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_steel_to_ingot_steel": {
+    "criteria": {
+      "has_storage_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_sword": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_steel_to_storage_steel": {
+    "criteria": {
+      "has_ingot_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_plate": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_axe": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_rod": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/steel_door": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_hoe": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_boots": {
+    "criteria": {
+      "has_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/steel_sliding_breechblock": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2026-01-17 21:13:07 +0700"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_baked_goods": {
+    "criteria": {
+      "bakery:apple_pie": "2026-01-17 21:13:23 +0700"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2026-01-17 21:22:09 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2026-01-17 21:22:09 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2026-01-17 21:22:09 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/get_a_sewing_table": {
+    "criteria": {
+      "inventory_changed": "2026-01-17 21:28:20 +0700"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-01-17 21:32:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2026-01-17 21:33:38 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:main/sew_a_coat": {
+    "criteria": {
+      "recipe_crafted": "2026-01-17 21:35:15 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2026-01-17 21:58:56 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-01-17 21:58:56 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-01-17 21:58:56 +0700"
     },
     "done": true
   },
