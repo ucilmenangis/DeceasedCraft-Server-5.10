@@ -13277,51 +13277,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_pressure_plate": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2026-01-18 21:02:15 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2026-01-18 20:37:51 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_wall_from_smooth_andesite_stonecutting": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_slab": {
     "criteria": {
       "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/classic_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/casting_sand": {
-    "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
     },
     "done": true
   },
@@ -13331,87 +13289,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_pressure_plate_from_smooth_andesite_stonecutting": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_stairs": {
     "criteria": {
       "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2026-01-18 21:02:15 +0700"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/manual": {
-    "criteria": {
-      "has_book": "2026-01-18 20:37:51 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
-  "exposure:recipes/tools/album": {
-    "criteria": {
-      "has_book": "2026-01-18 20:37:51 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:building/highrise_office/building_office1b": {
-    "criteria": {
-      "building_office1b": "2026-01-18 20:05:41 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_from_slabs": {
-    "criteria": {
-      "has_smooth_marble_slab": "2026-01-18 20:05:14 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2026-01-18 20:37:51 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/sport_car_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
     },
     "done": true
   },
@@ -13421,15 +13301,213 @@
     },
     "done": true
   },
+  "minecraft:recipes/embellishcraft_rocks_group/marble_ornament_from_smooth_marble_stonecutting": {
+    "criteria": {
+      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_marble_stairs_from_smooth_marble_stonecutting": {
+    "criteria": {
+      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_wall": {
+    "criteria": {
+      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/polished_marble": {
+    "criteria": {
+      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_marble_pressure_plate_from_smooth_marble_stonecutting": {
+    "criteria": {
+      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_pressure_plate": {
+    "criteria": {
+      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_pressure_plate": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_wall_from_smooth_andesite_stonecutting": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_pressure_plate_from_smooth_andesite_stonecutting": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_wall": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_slab": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/andesite_bricks": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_stairs_from_smooth_andesite_stonecutting": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_stairs": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_slab_from_smooth_andesite_stonecutting": {
+    "criteria": {
+      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_from_slabs": {
+    "criteria": {
+      "has_smooth_marble_slab": "2026-01-18 20:05:14 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/marble_ornament_from_smooth_slabs": {
+    "criteria": {
+      "has_smooth_marble_slab": "2026-01-18 20:05:14 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office1b": {
+    "criteria": {
+      "building_office1b": "2026-01-18 20:05:41 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_policeoffice1": {
+    "criteria": {
+      "building_policeoffice1": "2026-01-18 20:05:58 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/classic_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/sport_car_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/motorcycle_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/car_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/truck_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/suv_body": {
+    "criteria": {
+      "has_iron_block": "2026-01-18 20:16:32 +0700"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/impact_fuze": {
     "criteria": {
       "has_impact_fuze_head": "2026-01-18 20:35:40 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_sand": "2026-01-18 21:38:40 +0700"
+      "has_book": "2026-01-18 20:37:51 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2026-01-18 20:37:51 +0700"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2026-01-18 20:37:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-18 20:37:51 +0700"
     },
     "done": true
   },
@@ -13445,9 +13523,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/embellishcraft_rocks_group/marble_ornament_from_smooth_marble_stonecutting": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
+      "has_book": "2026-01-18 20:37:51 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-18 20:37:51 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2026-01-18 20:42:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2026-01-18 20:42:58 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-01-18 21:02:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-01-18 21:02:15 +0700"
     },
     "done": true
   },
@@ -13457,9 +13565,63 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "has_item": "2026-01-18 20:16:32 +0700"
+      "has_melon_slice": "2026-01-18 21:02:15 +0700"
+    },
+    "done": true
+  },
+  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-01-18 21:02:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-01-18 21:02:15 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/casting_sand": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-01-18 21:38:40 +0700"
     },
     "done": true
   },
@@ -13481,51 +13643,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_wall": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/motorcycle_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "deceasedcraft:building/highrise_office/building_policeoffice1": {
-    "criteria": {
-      "building_policeoffice1": "2026-01-18 20:05:58 +0700"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2026-01-18 21:02:15 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_slab": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/car_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
     },
     "done": true
   },
@@ -13541,75 +13661,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2026-01-18 20:37:51 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_marble_stairs_from_smooth_marble_stonecutting": {
-    "criteria": {
-      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2026-01-18 20:42:58 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-18 21:38:40 +0700"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_wall": {
-    "criteria": {
-      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/andesite_bricks": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/polished_marble": {
-    "criteria": {
-      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-18 21:38:40 +0700"
-    },
-    "done": true
-  },
-  "legendarysurvivaloverhaul:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2026-01-18 21:02:15 +0700"
-    },
-    "done": true
-  },
-  "dragnvehicles:recipes/misc/truck_body": {
-    "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_marble_pressure_plate_from_smooth_marble_stonecutting": {
-    "criteria": {
-      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2026-01-18 21:02:15 +0700"
     },
     "done": true
   },
@@ -13631,69 +13691,1099 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2026-01-18 20:37:51 +0700"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/building_blocks/turbine/basic/bearing": {
-    "criteria": {
-      "has_item": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2026-01-18 20:42:58 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/marble_ornament_from_smooth_slabs": {
-    "criteria": {
-      "has_smooth_marble_slab": "2026-01-18 20:05:14 +0700"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_marble_pressure_plate": {
-    "criteria": {
-      "has_smooth_marble": "2026-01-18 20:04:56 +0700"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_hull": {
-    "criteria": {
-      "has_item": "2026-01-18 20:16:32 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_stairs_from_smooth_andesite_stonecutting": {
-    "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2026-01-18 21:38:40 +0700"
     },
     "done": true
   },
-  "dragnvehicles:recipes/misc/suv_body": {
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
-      "has_iron_block": "2026-01-18 20:16:32 +0700"
+      "has_glass": "2026-01-19 18:11:53 +0700"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_stairs": {
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+      "has_glass": "2026-01-19 18:11:53 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/embellishcraft_rocks_group/smooth_andesite_slab_from_smooth_andesite_stonecutting": {
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
     "criteria": {
-      "has_smooth_andesite": "2026-01-18 20:05:01 +0700"
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/jungle_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/mangrove_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/crimson_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/acacia_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/dark_oak_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/warped_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/spruce_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/oak_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/birch_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/bamboo_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_6": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_5": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_8": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_7": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_2": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_1": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_4": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "buildersdelight:recipes/misc/cherry_glass_3": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700",
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2026-01-19 18:11:53 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2026-01-19 18:11:53 +0700"
     },
     "done": true
   },

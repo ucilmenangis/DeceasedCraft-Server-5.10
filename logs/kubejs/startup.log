@@ -1,45 +1,45 @@
-[14:01:18] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:01:18] [INIT] Loaded plugins:
-[14:01:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:01:18] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
-[14:01:18] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[14:01:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[14:01:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[14:01:18] [INIT] - net.liopyu.entityjs.EntityJSPlugin
-[14:01:18] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[14:01:18] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[14:01:20] [INFO] Loaded script startup_scripts:armors/tier_1.js in 0.177 s
-[14:01:20] [INFO] Loaded script startup_scripts:armors/tier_2.js in 0.014 s
-[14:01:20] [INFO] Loaded script startup_scripts:armors/tier_3.js in 0.02 s
-[14:01:20] [INFO] Loaded script startup_scripts:armors/tier_4.js in 0.011 s
-[14:01:20] [INFO] Loaded script startup_scripts:entity/attribute.js in 0.022 s
-[14:01:20] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[14:01:20] [INFO] Loaded script startup_scripts:example.js in 0.004 s
-[14:01:20] [INFO] Loaded script startup_scripts:food/food_value.js in 0.006 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/badges.js in 0.001 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/bullet_casings.js in 0.001 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/flyer.js in 0.003 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/incomplete.js in 0.005 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/materials.js in 0.005 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/misc.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/molds.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:items/skill_books.js in 0.002 s
-[14:01:20] [INFO] logics/abyss_portal.js#1: Loaded Java class 'net.kyrptonaught.customportalapi.api.CustomPortalBuilder'
-[14:01:20] [INFO] Loaded script startup_scripts:logics/abyss_portal.js in 0.005 s
-[14:01:20] [INFO] Loaded script startup_scripts:logics/ore_removal.js in 0.001 s
-[14:01:20] [INFO] Loaded script startup_scripts:removals.js in 0.005 s
-[14:01:20] [INFO] weapons/axes.js#1: Loaded Java class 'java.util.UUID'
-[14:01:20] [INFO] weapons/axes.js#3: Loaded Java class 'java.lang.String'
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/axes.js in 0.008 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/bats.js in 0.003 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/fists.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/hammers.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/hoes.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/knives.js in 0.004 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/maces.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/machetes.js in 0.002 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/misc.js in 0.001 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/shield.js in 0.001 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/shovels.js in 0.003 s
-[14:01:20] [INFO] Loaded script startup_scripts:weapons/swords.js in 0.003 s
-[14:01:20] [INFO] Loaded 30/30 KubeJS startup scripts in 1.445 s with 0 errors and 0 warnings
+[17:46:18] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:46:18] [INIT] Loaded plugins:
+[17:46:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:46:18] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[17:46:18] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[17:46:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[17:46:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:46:18] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[17:46:18] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[17:46:18] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[17:46:19] [INFO] Loaded script startup_scripts:armors/tier_1.js in 0.206 s
+[17:46:19] [INFO] Loaded script startup_scripts:armors/tier_2.js in 0.015 s
+[17:46:19] [INFO] Loaded script startup_scripts:armors/tier_3.js in 0.023 s
+[17:46:19] [INFO] Loaded script startup_scripts:armors/tier_4.js in 0.033 s
+[17:46:19] [INFO] Loaded script startup_scripts:entity/attribute.js in 0.032 s
+[17:46:19] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[17:46:19] [INFO] Loaded script startup_scripts:example.js in 0.006 s
+[17:46:19] [INFO] Loaded script startup_scripts:food/food_value.js in 0.01 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/badges.js in 0.002 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/bullet_casings.js in 0.002 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/flyer.js in 0.006 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/incomplete.js in 0.008 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/materials.js in 0.005 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/misc.js in 0.001 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/molds.js in 0.002 s
+[17:46:19] [INFO] Loaded script startup_scripts:items/skill_books.js in 0.003 s
+[17:46:20] [INFO] logics/abyss_portal.js#1: Loaded Java class 'net.kyrptonaught.customportalapi.api.CustomPortalBuilder'
+[17:46:20] [INFO] Loaded script startup_scripts:logics/abyss_portal.js in 0.009 s
+[17:46:20] [INFO] Loaded script startup_scripts:logics/ore_removal.js in 0.001 s
+[17:46:20] [INFO] Loaded script startup_scripts:removals.js in 0.004 s
+[17:46:20] [INFO] weapons/axes.js#1: Loaded Java class 'java.util.UUID'
+[17:46:20] [INFO] weapons/axes.js#3: Loaded Java class 'java.lang.String'
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/axes.js in 0.006 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/bats.js in 0.003 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/fists.js in 0.001 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/hammers.js in 0.003 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/hoes.js in 0.003 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/knives.js in 0.004 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/maces.js in 0.002 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/machetes.js in 0.004 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/misc.js in 0.002 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/shield.js in 0.002 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/shovels.js in 0.004 s
+[17:46:20] [INFO] Loaded script startup_scripts:weapons/swords.js in 0.009 s
+[17:46:20] [INFO] Loaded 30/30 KubeJS startup scripts in 1.323 s with 0 errors and 0 warnings
