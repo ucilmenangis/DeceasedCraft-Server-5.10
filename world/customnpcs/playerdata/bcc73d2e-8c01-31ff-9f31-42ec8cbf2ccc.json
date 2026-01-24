@@ -1,6 +1,18 @@
 {
     "QuestData": {
         "ActiveQuests": [
+            {
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 5,
+                            "Slot": "undead_revamp2:bomber"
+                        }
+                    ]
+                },
+                "QuestCompleted": 1b,
+                "Quest": 7
+            }
         ],
         "CompletedQuests": [
             {
@@ -14,6 +26,22 @@
             {
                 "Quest": 3,
                 "Date": 810290L
+            },
+            {
+                "Quest": 25,
+                "Date": 1808402L
+            },
+            {
+                "Quest": 26,
+                "Date": 1822860L
+            },
+            {
+                "Quest": 27,
+                "Date": 2085842L
+            },
+            {
+                "Quest": 28,
+                "Date": 2086451L
             }
         ]
     },
@@ -80,6 +108,57 @@
         },
         {
             "Dialog": 17
+        },
+        {
+            "Dialog": 32
+        },
+        {
+            "Dialog": 33
+        },
+        {
+            "Dialog": 100
+        },
+        {
+            "Dialog": 101
+        },
+        {
+            "Dialog": 102
+        },
+        {
+            "Dialog": 103
+        },
+        {
+            "Dialog": 104
+        },
+        {
+            "Dialog": 105
+        },
+        {
+            "Dialog": 106
+        },
+        {
+            "Dialog": 107
+        },
+        {
+            "Dialog": 108
+        },
+        {
+            "Dialog": 109
+        },
+        {
+            "Dialog": 45
+        },
+        {
+            "Dialog": 110
+        },
+        {
+            "Dialog": 46
+        },
+        {
+            "Dialog": 111
+        },
+        {
+            "Dialog": 112
         }
     ],
     "PlayerCompanionId": 0,

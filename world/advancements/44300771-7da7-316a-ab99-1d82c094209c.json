@@ -37,9 +37,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2026-01-19 20:25:25 +0700",
       "shrubland": "2026-01-15 20:21:12 +0700",
+      "floodplain": "2026-01-19 20:18:59 +0700",
+      "old_growth_woodland": "2026-01-19 20:25:36 +0700",
       "overgrown_greens": "2026-01-15 21:56:30 +0700",
       "redwood_forest": "2026-01-15 23:02:44 +0700",
+      "volcano": "2026-01-19 20:18:25 +0700",
       "rocky_rainforest": "2026-01-16 21:21:51 +0700",
       "volcanic_plains": "2026-01-16 21:19:11 +0700",
       "grassland": "2026-01-15 20:29:08 +0700",
@@ -6223,7 +6227,10 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
+      "bakery:crusty_bread": "2026-01-19 20:35:44 +0700",
+      "bakery:chocolate_jam": "2026-01-19 20:38:03 +0700",
       "bakery:apple_pie": "2026-01-17 21:13:23 +0700",
+      "bakery:bun": "2026-01-19 20:50:10 +0700",
       "bakery:vegetable_sandwich": "2026-01-15 21:28:56 +0700"
     },
     "done": false
@@ -11780,7 +11787,9 @@
   },
   "bakery:main/get_all_baked_goods": {
     "criteria": {
-      "bakery:apple_pie": "2026-01-17 21:13:23 +0700"
+      "bakery:apple_pie": "2026-01-17 21:13:23 +0700",
+      "bakery:crusty_bread": "2026-01-19 20:35:44 +0700",
+      "bakery:bun": "2026-01-19 20:50:10 +0700"
     },
     "done": false
   },
@@ -11841,6 +11850,1920 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2026-01-17 21:58:56 +0700"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2026-01-19 19:58:31 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_hotel/building_hotelb": {
+    "criteria": {
+      "building_hotelb": "2026-01-19 20:18:39 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/highrise_hotel/multi_sunkenmonumentpark": {
+    "criteria": {
+      "multi_sunkenmonumentpark": "2026-01-19 20:24:20 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office2b": {
+    "criteria": {
+      "building_office2b": "2026-01-19 20:25:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2026-01-19 20:26:29 +0700"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_top": "2026-01-19 20:26:29 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_officebank": {
+    "criteria": {
+      "building_officebank": "2026-01-19 20:26:53 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office3b": {
+    "criteria": {
+      "building_office3b": "2026-01-19 20:26:54 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office3a": {
+    "criteria": {
+      "building_office3a": "2026-01-19 20:26:57 +0700"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-01-19 20:31:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_silver_to_ingot_silver": {
+    "criteria": {
+      "has_storage_silver": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_silver_to_storage_silver": {
+    "criteria": {
+      "has_ingot_silver": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-01-19 20:31:42 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office4": {
+    "criteria": {
+      "building_office4": "2026-01-19 20:34:01 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office1b": {
+    "criteria": {
+      "building_office1b": "2026-01-19 20:34:03 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/white_steel_door": {
+    "criteria": {
+      "has_steel_door": "2026-01-19 20:34:44 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/sturdy_steel_door": {
+    "criteria": {
+      "has_steel_door": "2026-01-19 20:34:44 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/rusty_door": {
+    "criteria": {
+      "has_steel_door": "2026-01-19 20:34:44 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_industrial_group/warning_steel_door": {
+    "criteria": {
+      "has_steel_door": "2026-01-19 20:34:44 +0700"
+    },
+    "done": true
+  },
+  "bakery:main/get_all_jams": {
+    "criteria": {
+      "bakery:chocolate_jam": "2026-01-19 20:38:03 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-01-19 20:39:52 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2026-01-19 20:45:36 +0700"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2026-01-19 20:45:36 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_copper": {
+    "criteria": {
+      "has_plate_copper": "2026-01-19 20:45:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-01-19 20:49:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-19 20:49:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-01-19 20:49:45 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_policeoffice1": {
+    "criteria": {
+      "building_policeoffice1": "2026-01-19 20:52:06 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2026-01-19 20:56:46 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2026-01-19 20:57:31 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office5": {
+    "criteria": {
+      "building_office5": "2026-01-19 21:00:30 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office3c": {
+    "criteria": {
+      "building_office3c": "2026-01-19 21:07:52 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/highrise_office/multi_officethefirst": {
+    "criteria": {
+      "multi_officethefirst": "2026-01-19 21:11:02 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/highrise_office/building_office1a": {
+    "criteria": {
+      "building_office1a": "2026-01-19 21:11:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2026-01-19 21:19:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2026-01-19 21:19:25 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2026-01-19 21:21:25 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_controller": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/brown_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_fluid_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_detector": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/light_gray_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_relay": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/purple_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/pink_crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_network_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/cyan_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/gray_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/crafter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/red_pattern_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/black_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/lime_security_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/orange_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_crafting_monitor": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/white_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_wireless_transmitter": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/green_crafter_manager": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/yellow_disk_manipulator": {
+    "criteria": {
+      "refinedstorage:controller": "2026-01-19 21:21:55 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/dark_oak_terrace_table": {
+    "criteria": {
+      "has_dark_oak_pressure_plate": "2026-01-19 21:25:42 +0700"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/dark_oak_terrace_chair": {
+    "criteria": {
+      "has_dark_oak_pressure_plate": "2026-01-19 21:25:42 +0700"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2026-01-19 21:32:48 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2026-01-19 21:38:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-01-19 21:38:00 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-01-19 21:38:00 +0700"
     },
     "done": true
   },

@@ -320,7 +320,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "shrubland": "2026-01-15 20:20:33 +0700"
+      "shrubland": "2026-01-15 20:20:33 +0700",
+      "grassland": "2026-01-21 23:15:20 +0700"
     },
     "done": false
   },
@@ -670,6 +671,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2026-01-15 20:23:26 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:building/suburb_residential/building_residentialc": {
+    "criteria": {
+      "building_residentialc": "2026-01-21 23:15:20 +0700"
+    },
+    "done": true
+  },
+  "deceasedcraft:large_building/suburb_residential/multi_policestation": {
+    "criteria": {
+      "multi_policestation": "2026-01-21 23:16:15 +0700"
     },
     "done": true
   },
